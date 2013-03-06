@@ -1,0 +1,12 @@
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\CleanupDataTypes\bin\x86\Debug\CleanupDataTypes.dll
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\CleanupDataTypes\bin\x86\Debug\CleanupDataTypes.pdb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\CleanupDataTypes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\CleanupDataTypes\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\CleanupDataTypes\obj\x86\Debug\CleanupDataTypes.dll
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\CleanupDataTypes\obj\x86\Debug\CleanupDataTypes.pdb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\CleanupDataTypes\bin\x86\Debug\CleanupDataTypes.dll
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\CleanupDataTypes\bin\x86\Debug\CleanupDataTypes.pdb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\CleanupDataTypes\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\CleanupDataTypes\obj\x86\Debug\CleanupDataTypes.dll
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\CleanupDataTypes\obj\x86\Debug\CleanupDataTypes.pdb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\CleanupDataTypes\obj\x86\Debug\CleanupDataTypes.csprojResolveAssemblyReference.cache

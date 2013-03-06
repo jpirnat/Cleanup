@@ -1,0 +1,2 @@
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\CleanupContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\CleanupContent\obj\x86\Debug\CleanupContent.contentprojResolveAssemblyReference.cache

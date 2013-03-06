@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+	<!-- TODO: replace this Asset with your own XML asset data. -->
+	<Asset Type="CleanupDataTypes.StageData">
+		<name>Gravelly</name>
+		<music>Pompeii</music>
+		<minutes>5</minutes>
+		<bounds>0 0 4000 4000</bounds>
+		<maxZoomOut>0.15</maxZoomOut>
+		<tileTextureName>backgrounds/roadtest</tileTextureName>
+		<cameraStartPosition>2000 1000</cameraStartPosition>
+		<player1StartPosition>2200 3800</player1StartPosition>
+		<player1StartDirection>4.71238898</player1StartDirection>
+		<player2StartPosition>1800 3800</player2StartPosition>
+		<player2StartDirection>4.71238898</player2StartDirection>
+		<trashSpawnRateYellow>0.2</trashSpawnRateYellow>
+		<trashSpawnRateRed>0.1</trashSpawnRateRed>
+		<trashSpawnRateBlue>0</trashSpawnRateBlue>
+		<trashSpawnRateGreen>0.1</trashSpawnRateGreen>
+		<trashSpawnRatePurple>0</trashSpawnRatePurple>
+		<trashSpawnRateBlack>1</trashSpawnRateBlack>
+		<entities>
+			<Item>
+				<type>19</type>
+				<position>2000 500</position>
+			</Item>
+			<Item>
+				<type>17</type>
+				<position>2000 1000</position>
+			</Item>
+			<Item>
+				<type>17</type>
+				<position>2000 2000</position>
+			</Item>
+			<Item>
+				<type>17</type>
+				<position>2000 3000</position>
+			</Item>
+		</entities>
+	</Asset>
+</XnaContent>

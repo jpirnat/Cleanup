@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+	<!-- TODO: replace this Asset with your own XML asset data. -->
+	<Asset Type="CleanupDataTypes.StageData">
+		<name>Grassy</name>
+		<music>smrpg song</music>
+		<minutes>2</minutes>
+		<bounds>0 0 2000 2000</bounds>
+		<maxZoomOut>0.3</maxZoomOut>
+		<tileTextureName>backgrounds/grass02</tileTextureName>
+		<cameraStartPosition>1000 400</cameraStartPosition>
+		<player1StartPosition>1200 1800</player1StartPosition>
+		<player1StartDirection>4.71238898</player1StartDirection>
+		<player2StartPosition>800 1800</player2StartPosition>
+		<player2StartDirection>4.71238898</player2StartDirection>
+		<trashSpawnRateYellow>0.1</trashSpawnRateYellow>
+		<trashSpawnRateRed>0.1</trashSpawnRateRed>
+		<trashSpawnRateBlue>0</trashSpawnRateBlue>
+		<trashSpawnRateGreen>0.1</trashSpawnRateGreen>
+		<trashSpawnRatePurple>0</trashSpawnRatePurple>
+		<trashSpawnRateBlack>1</trashSpawnRateBlack>
+		<entities>
+			<Item>
+				<type>15</type>
+				<position>1000 400</position>
+			</Item>
+			<Item>
+				<type>13</type>
+				<position>1000 600</position>
+			</Item>
+			<Item>
+				<type>19</type>
+				<position>1000 800</position>
+			</Item>
+			<Item>
+				<type>22</type>
+				<position>936 1200</position>
+			</Item>
+			<Item>
+				<type>22</type>
+				<position>1000 1200</position>
+			</Item>
+			<Item>
+				<type>22</type>
+				<position>1064 1200</position>
+			</Item>
+		</entities>
+	</Asset>
+</XnaContent>

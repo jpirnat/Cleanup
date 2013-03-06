@@ -1,0 +1,96 @@
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Cleanup.exe
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Cleanup.pdb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\CleanupDataTypes.dll
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\CleanupDataTypes.pdb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\obj\x86\Debug\Cleanup.exe
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\obj\x86\Debug\Cleanup.pdb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\screens\instruction_screen.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\screens\stage_select_screen.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\screens\title_screen.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bags\bag_black.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bags\bag_blue.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bags\bag_green.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bags\bag_purple.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bags\bag_red.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bags\bag_yellow.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bulldozers\bulldozer_black.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bulldozers\bulldozer_blue.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bulldozers\bulldozer_green.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bulldozers\bulldozer_purple.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bulldozers\bulldozer_red.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bulldozers\bulldozer_yellow.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\trash\trash_black.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\trash\trash_blue.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\trash\trash_green.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\trash\trash_purple.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\trash\trash_red.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\trash\trash_yellow.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\grayblock_64.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\recycling_bin.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\translucent_box.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\fire.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\water_deep.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\water_shallow.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\music\Final Stance.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\music\Pompeii.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\music\Rest A While.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\music\smrpg song.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\music\Final Stance.wma
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\music\Pompeii.wma
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\music\Rest A While.wma
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\music\smrpg song.wma
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\courier_new.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\stages\Gravelly.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\stages\Grassy.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\backgrounds\grass02.xnb
+C:\Users\Class2013\Desktop\starting from scratch\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\backgrounds\roadtest.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\screens\instruction_screen.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\screens\stage_select_screen.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\screens\title_screen.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bags\bag_black.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bags\bag_blue.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bags\bag_green.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bags\bag_purple.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bags\bag_red.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bags\bag_yellow.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bulldozers\bulldozer_black.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bulldozers\bulldozer_blue.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bulldozers\bulldozer_green.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bulldozers\bulldozer_purple.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bulldozers\bulldozer_red.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\bulldozers\bulldozer_yellow.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\trash\trash_black.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\trash\trash_blue.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\trash\trash_green.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\trash\trash_purple.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\trash\trash_red.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\trash\trash_yellow.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\grayblock_64.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\recycling_bin.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\translucent_box.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\fire.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\water_deep.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\water_shallow.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\backgrounds\grass02.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\backgrounds\roadtest.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\music\Final Stance.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\music\Pompeii.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\music\Rest A While.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\music\smrpg song.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\courier_new.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\stages\Gravelly.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\stages\Grassy.xnb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\music\Final Stance.wma
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\music\Pompeii.wma
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\music\Rest A While.wma
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Content\music\smrpg song.wma
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Cleanup.exe
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\Cleanup.pdb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\CleanupDataTypes.dll
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\bin\x86\Debug\CleanupDataTypes.pdb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\obj\x86\Debug\Cleanup.exe
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\obj\x86\Debug\Cleanup.pdb
+C:\Users\Class2013\Desktop\Programming\C#\Cleanup\Cleanup\Cleanup\obj\x86\Debug\Cleanup.csprojResolveAssemblyReference.cache
